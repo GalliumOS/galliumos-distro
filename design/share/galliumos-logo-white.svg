@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4216"
+   viewBox="0 0 1280.7235 304.00002"
+   height="85.795563mm"
+   width="361.44864mm">
+  <defs
+     id="defs4218" />
+  <metadata
+     id="metadata4221">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(640.36174,-1174.6479)"
+     id="layer1">
+    <g
+       id="g4563"
+       transform="matrix(0.1246168,0,0,0.1246168,-3046.6657,20.101534)">
+      <g
+         id="g4174"
+         transform="translate(7016.5757,10042.214)">
+        <g
+           id="g4408"
+           transform="translate(-69.56459,0)">
+          <g
+             transform="translate(11342.898,1370.9743)"
+             id="g4146">
+            <path
+               d="m 2259.7975,-1334.7251 c 94.95,4.88 189.5928,35.5149 246.05,104.48 359.8308,439.54983 658.5546,946.38246 937.3001,1356.38013 l 0,-2274.55023 0,0 z"
+               id="path17"
+               style="opacity:1;fill:#efefef;fill-opacity:1" />
+            <path
+               d="m 2203.0583,-522.62663 c -94.95,-4.88 -189.5875,-35.50983 -246.0501,-104.48001 -359.8344,-439.54476 -658.5511,-946.38066 -937.29,-1356.37016 l 0,2274.54024 0,0 z"
+               id="path21"
+               style="opacity:1;fill:#efefef;fill-opacity:1" />
+            <path
+               d="m 1833.4082,-965.07509 c 4.88,-94.95001 35.5047,-189.59231 104.47,-246.05001 439.5507,-359.833 946.3863,-658.5496 1356.3802,-937.2901 l -2274.5402,0 0,0 z"
+               id="path25"
+               style="opacity:1;fill:#efefef;fill-opacity:1" />
+            <path
+               d="m 2629.4575,-892.28666 c -4.88,94.95001 -35.5085,189.58915 -104.48,246.05002 -439.5526,359.82286 -946.3797,658.556482 -1356.3701,937.30008 l 2274.5402,0 0,0 z"
+               id="path29"
+               style="opacity:1;fill:#efefef;fill-opacity:1" />
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:320.98403931px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="15402.283"
+             y="968.96771"
+             id="text4158"><tspan
+               id="tspan4160"
+               x="15402.283"
+               y="968.96771"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1524.67407227px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';letter-spacing:8.8270607px;fill:#efefef;fill-opacity:1">GalliumOS</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
