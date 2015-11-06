@@ -5,3 +5,7 @@ It is based on Xubuntu to provide a nice light weight environment and contains m
 for ChromeOS devices.
 
 This repo is for docs and issue tracking.
+
+## Some design notes
+![galliumos_logo_03](https://cloud.githubusercontent.com/assets/5765780/10997796/63decd80-8490-11e5-9110-6f253c9ccb49.png)
+[Font (Roboto) Download](http://www.fontsquirrel.com/fonts/roboto)
