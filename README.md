@@ -1,14 +1,18 @@
 # galliumos-distro
 GalliumOS is a Linux distribution that is optimized for ChromeOS devices.
 
-It is based on Xubuntu to provide a nice light weight environment and contains many fixes and enhancements
-for ChromeOS devices.
+More information at https://galliumos.org/
 
-Design notes, artwork, and documentation will be on the GalliumOS wiki at https://galliumos.org/wiki/
+Design notes, artwork, and docs are on the GalliumOS wiki: https://wiki.galliumos.org/
 
-This repo is for issue tracking.
+This repo is for issue tracking only. Code and content are in [other GalliumOS repositories](https://github.com/GalliumOS).
 
 
-# Issues
+## Issues
 
-This repo's GitHub Issues tracker is the primary issue tracker for GalliumOS at this time. **This is _not_ a support forum! Please only post issues with GalliumOS itself. We don't care about your specific piece of software that doesn't seem to work for reasons completely unrelated to GalliumOS or the computer that you bricked. Those are not our issues.** If you want support, you should go to the /r/galliumos subreddit, or #galliumos IRC channel. Thank you.
+The [galliumos-distro issue tracker](https://github.com/GalliumOS/galliumos-distro/issues) is the place to report issues with GalliumOS. Please check the existing issues before creating a duplicate.
+
+For general support, please use our [Reddit forum](https://reddit.com/r/galliumos) or [#galliumos on Freenode](https://kiwiirc.com/client/irc.freenode.net#galliumos) instead.
+
+Thank you!
+
