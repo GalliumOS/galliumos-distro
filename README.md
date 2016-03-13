@@ -1,4 +1,4 @@
-# galliumos-distro
+# GalliumOS
 GalliumOS is a Linux distribution that is optimized for ChromeOS devices.
 
 More information at https://galliumos.org/
