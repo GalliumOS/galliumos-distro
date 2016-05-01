@@ -10,7 +10,7 @@ This repo is for issue tracking only. Code and content are in [other GalliumOS r
 
 ## Issues
 
-The [galliumos-distro issue tracker](https://github.com/GalliumOS/galliumos-distro/issues) is the place to report issues with GalliumOS. Please check the existing issues before creating a duplicate.
+The [galliumos-distro issue tracker](https://github.com/GalliumOS/galliumos-distro/issues) is the place to report issues with GalliumOS. Please check the existing issues before creating a duplicate. Issues on the nightlies are greatly appreciated and should be reported here.
 
 For general support, please use our [Reddit forum](https://reddit.com/r/galliumos) or [#galliumos on Freenode](https://kiwiirc.com/client/irc.freenode.net#galliumos) instead.
 
