@@ -1,17 +1,32 @@
-Before submitting an issue, please do the following.
+<!--
+Please check the following before submitting a new issue:
 
-1. Search for a similar issue in the issue tracker. Duplicate issues are not helpful, and waste everyone's time.
-2. Don't ask questions here. This is for problems only. If you have a question, you can ask on reddit or the IRC channel.
-3. Try to reproduce the issue, and if you can, give us specific instructions on how to do it.
-4. If applicable to your issue, please state your ChromeOS hardware model, if you've flashed firmware, and if you're running a nightly.
-5. If you are using GalliumOS 1.0, please upgrade to 2.0 before submitting issues, as GalliumOS 1.0 is no longer supported as of the first of July, 2016.
+1. Make sure you are running the current release of GalliumOS (2.0), if possible
+  * See https://wiki.galliumos.org/News/GalliumOS_2.0 for more information
+  * Upgrade help is available on Reddit or IRC (see below)
+2. Make sure your system is fully updated
+  * Run "GalliumOS Update" from the launcher menu, or `galliumos-update` from a Terminal window
+3. Search the issue tracker for similar issues
+  * Keep all discussion of an issue in a single ticket; duplicates are distracting
+  * Please add any additional information you can provide to existing tickets
+  * A comment to the effect of "I am also having this problem" is fine, and often useful
 
-Reddit: https://reddit.com/r/galliumos
-IRC Channel: #galliumos on irc.freenode.net
-WebIRC: https://galliumos.org/irc
+If you are creating a new issue report, be sure to include the following:
 
-Thank you for reporting issues, and helping us keep the issue tracker tidy.
+1. Your Chromebook/Chromebox model hardware ID
+  * Check `dmidecode -s system-product-id`, the dev mode screen, or find your model on https://wiki.galliumos.org/Hardware_Compatibility
+2. Your firmware: stock/factory, MattDevo, CoolStar, John Lewis, or other
+  * See https://wiki.galliumos.org/Firmware for more information
+3. Your installation method (ISO or chrx) and whether you're running a nightly build
+4. A detailed description of the problem, and steps to reproduce it
 
-- The GalliumOS Team
+This tracker is primarily for bug reports. Some feature requests are also appropriate.
 
-(Please do not include this message in your issue. Delete it first and then write your issue's details instead.)
+For support questions, please use our Reddit forum or IRC channel instead (but check the GalliumOS wiki first):
+
+* https://wiki.galliumos.org/
+* https://reddit.com/r/GalliumOS
+* https://galliumos.org/irc (Freenode #galliumos)
+
+Thank you for helping us make GalliumOS a better place!
+-->
