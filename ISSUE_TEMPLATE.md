@@ -1,8 +1,8 @@
 <!--
 Please check the following before submitting a new issue:
 
-1. Make sure you are running the current release of GalliumOS (2.0), if possible
-  * See https://wiki.galliumos.org/News/GalliumOS_2.0 for more information
+1. Make sure you are running the current release of GalliumOS, if possible
+  * See https://wiki.galliumos.org/News for more information
   * Upgrade help is available on Reddit or IRC (see below)
 2. Make sure your system is fully updated
   * Run "GalliumOS Update" from the launcher menu, or `galliumos-update` from a Terminal window
