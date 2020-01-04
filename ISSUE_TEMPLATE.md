@@ -14,7 +14,7 @@ Please check the following before submitting a new issue:
 If you are creating a new issue report, be sure to include the following:
 
 1. Your Chromebook/Chromebox model hardware ID
-  * Check `dmidecode -s system-product-id`, the dev mode screen, or find your model on https://wiki.galliumos.org/Hardware_Compatibility
+  * Check `dmidecode -s system-product-name`, the dev mode screen, or find your model on https://wiki.galliumos.org/Hardware_Compatibility
 2. Your firmware: stock/factory, MattDevo, CoolStar, John Lewis, or other
   * See https://wiki.galliumos.org/Firmware for more information
 3. Your installation method (ISO or chrx) and whether you're running a nightly build
